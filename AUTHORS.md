@@ -1,19 +1,3 @@
-Sinatra was designed and developed by Blake Mizerany in California.
-
-### Current Team
-
-* **Konstantin Haase** (maintainer)
-* **Zachary Scott**
-* **Kashyap Kondamudi**
-* **Ashley Williams**
-* **Trevor Bramble**
-
-### Alumni
-
-* **Blake Mizerany** (creator)
-* **Ryan Tomayko**
-* **Simon Rozet**
-* **Katrina Owen**
 
 ### Thanks
 
